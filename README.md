@@ -16,17 +16,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LegGasai/count.svg
 
 ### Skills & Tech
 
-Language:
+💽 Language:
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-A13C43?style=flat&logo=coffeescript">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-808080?style=flat&logo=python">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-690183?style=flat&logo=csharp">
 <img alt="Static Badge" src="https://img.shields.io/badge/Go-007D9C?style=flat&logo=go">
 <img alt="Static Badge" src="https://img.shields.io/badge/JS-9B658A?style=flat&logo=javascript">
 
-Frontend:
+🎆 Frontend:
 <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-9369F1?style=flat&logo=vuedotjs">
 <img alt="Static Badge" src="https://img.shields.io/badge/ElementUI-409FFF?style=flat&logo=elementor">
 
-Backend:
+🎇 Backend:
 <img alt="Static Badge" src="https://img.shields.io/badge/SprintBoot-6DB43C?style=flat&logo=springboot&labelColor=ffffff">
 
