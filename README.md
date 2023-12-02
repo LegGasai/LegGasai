@@ -24,7 +24,7 @@ Language:
 <img alt="Static Badge" src="https://img.shields.io/badge/JS-9B658A?style=flat&logo=javascript">
 
 Frontend:
-<img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-579FD4?style=flat&logo=vuedotjs">
+<img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-9369F1?style=flat&logo=vuedotjs">
 <img alt="Static Badge" src="https://img.shields.io/badge/ElementUI-409FFF?style=flat&logo=elementor">
 
 Backend:
