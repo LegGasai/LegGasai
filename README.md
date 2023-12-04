@@ -28,5 +28,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LegGasai/count.svg
 <img alt="Static Badge" src="https://img.shields.io/badge/ElementUI-409FFF?style=flat&logo=elementor">
 
 🎇 Backend:
-<img alt="Static Badge" src="https://img.shields.io/badge/SprintBoot-6DB43C?style=flat&logo=springboot&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB43C?style=flat&logo=springboot&labelColor=ffffff">
 
