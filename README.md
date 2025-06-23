@@ -1,6 +1,6 @@
 ### Hi! :wave:I'm LegGasai 
 - :city_sunrise: I'm currently a graduate student in software engineering at Tsinghua Univesity.
-- :rainbow: My recent research interests in 「Back-end & Distributed System」.
+- :rainbow: My recent research interests in 「Cloud-Native & Agent & Distribued System」.
 - :blush: Glad to meet you, feel free to engage in communication.
   
 You are my ![Visitor Count](https://profile-counter.glitch.me/LegGasai/count.svg)th visitor, thank you! :leaves::fallen_leaf:
@@ -29,4 +29,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LegGasai/count.svg
 
 🎇 Backend:
 <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB43C?style=flat&logo=springboot&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&labelColor=ffffff">
 
