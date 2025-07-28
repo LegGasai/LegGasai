@@ -25,4 +25,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&labelColor=ffffff">
 <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB43C?style=flat&logo=springboot&labelColor=ffffff">
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/LangChain-5E7575?style=flat&logo=langchain&logoColor=000000&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/MCP-6F42C1?style=flat&logo=modelcontextprotocol&logoColor=000000&labelColor=ffffff">
+
 
