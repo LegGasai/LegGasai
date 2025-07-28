@@ -1,6 +1,6 @@
 ### Hi! :wave:I'm LegGasai 
 - :city_sunrise: I'm currently a graduate student in software engineering at Tsinghua Univesity.
-- :rainbow: My recent research interests in 「Cloud-Native & Agent & Distribued System」.
+- :rainbow: My recent research interests in 「AI-Infra & Cloud-Native & MLSys」.
 - :blush: Glad to meet you, feel free to engage in communication.
   
 You are my ![Visitor Count](https://profile-counter.glitch.me/LegGasai/count.svg)th visitor, thank you! :leaves::fallen_leaf:
